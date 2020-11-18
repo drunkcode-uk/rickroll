@@ -52,7 +52,7 @@ If you discover any security related issues, please email rayblair06@hotmail.com
 
 ## Credits
 
--   [Ray Blair](https://github.com/drunkcode)
+-   [Ray Blair](https://github.com/rayblair06)
 -   [All Contributors](../../contributors)
 
 ## License
